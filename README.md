@@ -1,4 +1,4 @@
-<h1>Hi, I'm Jarrett.</h1>
+<h1>Hi, I'm Jarrett, an IT Professional.</h1>
 
 <h2>My Personal IT Projects</h2>
 
