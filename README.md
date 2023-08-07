@@ -2,8 +2,9 @@
 
 <h2>My Personal IT Projects</h2>
 
-- <b>Azure Crash Course</b>
+- <b>Microsoft Azure</b>
   - [Azure Resource Groups and Storage Accounts](https://github.com/jarrettm98/azure-crash-course)
+  - [Azure Compute and Networking](https://github.com/jarrettm98/azure-compute-and-networking)
   
 
 - <b>osTicket(Help Desk Ticketing System)</b>
