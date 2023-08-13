@@ -7,8 +7,9 @@
   - [Azure Compute and Networking](https://github.com/jarrettm98/azure-compute-and-networking)
 
 - <b>Active Directory</b>
+
   - [Installing Active Directory and Creating Users](https://github.com/jarrettm98/install-active-directory-create-users)
-  
+  - [Network File Sharing and Permissions with Active Directory](https://github.com/jarrettm98/network-file-sharing-and-permissions-with-active-directory)
 
 - <b>osTicket(Help Desk Ticketing System)</b>
   - [osTicket: Prerequisits and Installation](https://github.com/jarrettm98/osticket-prereqs)
